@@ -1,5 +1,6 @@
 ### Hi I'm Chan 👋
 
+I wanna be fullstack developer 💻
 
 ## Skill Stack
 
