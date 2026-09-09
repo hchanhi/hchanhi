@@ -11,6 +11,3 @@ payment integrations, APIs, incident and error analysis, and system monitoring.
 
 I like spotting small inconveniences and fixing them myself.
 I automate repetitive work, and I care about understanding problems from their root cause.
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hchanhi&theme=github_dark"
-     alt="GitHub stats" width="450">
